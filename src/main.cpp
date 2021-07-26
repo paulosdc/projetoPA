@@ -1,7 +1,6 @@
 #include <iostream>
 #include "sculptor.hpp"
 
-///@brief create a disk
 int main() {
 
     Sculptor ednaldo(100,100,100);
